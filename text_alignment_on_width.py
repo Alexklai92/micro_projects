@@ -42,3 +42,13 @@ def text_alignment_on_width(text):
 
 if __name__ == "__main__":
     text_alignment_on_width(text)
+
+"""
+example:
+sdajdksa  lksjad  kja  djkas  djkasjd  asjkd  aksjkdajsd  sad  as  das sdas  s
+asdasd        asdsad        asdasd        das        ss        d        asdasd
+asdasd      jkajs      jjkk;     csnsdan     nasdnasd     ksadjiksa      jsado
+sdahdjash   hasd   asd   jhajsdha   sjdhsjahd   sjd   as   jdhasdsh   ajh    h
+dsahjdsah     jjh     jh     kasjd     k     u     uk     suk     usku     ksu
+sdasd sad ajksd jaksd jkadj kasjdk jaksdj aksjd kajsd kajsdk jaksj dakjsd kajs
+"""
